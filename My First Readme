@@ -3,3 +3,6 @@ This is my first repository as an ALX learner
 root@896cf839cf9a:/{YOUR_REPO}# echo 'My first readme' > README.md                                                                 
 root@896cf839cf9a:/{YOUR_REPO}# cat README.md                                                                                      
 My first readme       
+root@896cf839cf9a:/# git clone https://{YOUR_PERSONAL_TOKEN}@github.com/{YOUR_USERNAME}/{YOUR_REPO}.git                  
+Cloning into '{YOUR_REPO}'...
+warning: You appear to have cloned an empty repository. 
